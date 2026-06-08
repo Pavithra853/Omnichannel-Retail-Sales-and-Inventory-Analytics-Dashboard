@@ -248,6 +248,8 @@ Provides dynamic, drill-down analysis across all dashboards.
 
 Week 3 Deliverables
 Interactive Power BI dashboard completed with KPIs, charts, heatmaps, and filters.
+Forecasting predicts future sales trends using historical order data.
+It helps businesses plan inventory, revenue targets, and resource allocation effectively.
 
 Week 4: Insights, Recommendations, and Final Documentation
 Overview
@@ -330,6 +332,8 @@ Sales Dashboard
 Inventory Dashboard
 Product Dashboard
 KPI Dashboard
+
+
 
 Week 4 Deliverables
 Sales, Inventory, and Customer Power BI dashboards with final report, SQL scripts, and GitHub repository submitted.
