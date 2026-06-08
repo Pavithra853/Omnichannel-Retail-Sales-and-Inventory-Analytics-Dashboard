@@ -367,7 +367,7 @@ Dashboard Preview
 
 The Power BI dashboard provides an interactive view of sales performance, profit trends, customer segments, product categories, and geographic distribution.
 
-![Dashboard Preview](Dashboard.pbix)
+![Dashboard Preview](Dashboard.png)
 
 ## Sales Forecast Dashboard
 
