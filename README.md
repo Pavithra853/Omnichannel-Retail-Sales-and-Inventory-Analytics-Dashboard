@@ -11,6 +11,7 @@
 
 ---
 
+# Omnichannel-Retail-Sales-and-Inventory-Analytics-Dashboard
 ## Week 1: Data Collection, Environment Setup, and Initial Cleaning
 
 ### Data Collection and Dataset Import
@@ -271,6 +272,8 @@ Provides dynamic, drill-down analysis across all dashboards.
 
 Week 3 Deliverables
 Interactive Power BI dashboard completed with KPIs, charts, heatmaps, and filters.
+Forecasting predicts future sales trends using historical order data.
+It helps businesses plan inventory, revenue targets, and resource allocation effectively.
 
 Week 4: Insights, Recommendations, and Final Documentation
 Overview
@@ -375,3 +378,9 @@ This forecasting page uses Power BI's built-in time-series forecasting model to 
 
 Week 4 Deliverables
 Sales, Inventory, and Customer Power BI dashboards with final report, SQL scripts, and GitHub repository submitted.
+
+
+
+Week 4 Deliverables
+Sales, Inventory, and Customer Power BI dashboards with final report, SQL scripts, and GitHub repository submitted.
+
