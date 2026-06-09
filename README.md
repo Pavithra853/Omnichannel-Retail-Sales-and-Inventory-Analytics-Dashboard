@@ -270,6 +270,13 @@ Interactive Filters and Slicers
 FilterOptionsDateCustom date rangeMonthMonthly filterCityCity-level filteringProduct CategoryCategory-wise viewSales ChannelOnline / Offline channels
 Provides dynamic, drill-down analysis across all dashboards.
 
+Week 3 Contribution - Rahima Banu
+
+• Product Performance Analysis
+• Inventory Analytics Dashboard
+• Heatmap Analysis
+• Interactive Filters and Slicers
+
 Week 3 Deliverables
 Interactive Power BI dashboard completed with KPIs, charts, heatmaps, and filters.
 Forecasting predicts future sales trends using historical order data.
