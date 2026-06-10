@@ -388,6 +388,4 @@ Sales, Inventory, and Customer Power BI dashboards with final report, SQL script
 
 
 
-Week 4 Deliverables
-Sales, Inventory, and Customer Power BI dashboards with final report, SQL scripts, and GitHub repository submitted.
 
